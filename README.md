@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nilesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nideshmukh/)](https://www.linkedin.com/in/nideshmukh/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Nilesh-green)](https://www.nilesh)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Nilesh-yellow)](https://stackoverflow.com/users/148433/nil)
 
 I'm
 Mobile apps developer
