@@ -4,8 +4,15 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Nilesh-green)](https://nileshdeshmukh-about-me.netlify.app/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Nilesh-yellow)](https://stackoverflow.com/users/148433/nil)
 
-I am a mobile app developer passionate about bridging design and development. I have worked with skilled teams on high-profile mobile apps and websites, gaining experience in iOS development across native and hybrid platforms. My expertise includes front-end technologies such as React, HTML5, CSS3, JavaScript, responsive design, and UX, as well as close collaboration with design teams. I also have hands-on experience with IBM MobileFirst Platform (MFP) 7 and 8 for building, managing, and maintaining mobile applications efficiently.
+iOS Mobile Application Developer with extensive experience building and maintaining high-quality mobile applications using native iOS technologies and hybrid frameworks. Strong background in collaborating with designers and product teams to deliver intuitive, performant, and scalable iOS solutions. Experienced in integrating modern UI/UX principles and ensuring code quality across the full development lifecycle. Proven contributor to high-profile mobile applications within agile development environments.
 
+Frontend / Mobile Application Developer specializing in React and ReactJS for mobile and web applications. Strong background in building responsive, component-driven user interfaces using HTML5, CSS3, JavaScript, and modern UX practices.
+
+Experienced in hybrid mobile development and working closely with design teams to implement intuitive, scalable, and maintainable UI solutions. Proven track record of contributing to high-visibility applications while maintaining code quality and performance standards.
+
+Enterprise Mobile Application Developer with hands-on experience in building and managing enterprise-grade mobile solutions using IBM MobileFirst Platform (MFP) 7 & 8. Skilled in leveraging pre-integrated mobile services to simplify application development, deployment, and ongoing maintenance.
+
+Strong background in iOS and hybrid mobile development within enterprise environments, collaborating with large, cross-functional teams to deliver secure, scalable, and maintainable mobile applications for high-impact business use cases.
 
 ![Visitor Count](https://profile-counter.glitch.me/nileshdeshmukh/count.svg)
 
