@@ -4,9 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Nilesh-green)](https://nileshdeshmukh-about-me.netlify.app/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Nilesh-yellow)](https://stackoverflow.com/users/148433/nil)
 
-I'm
-Mobile apps developer.
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile mobile apps and websites. I have a wide range of skills that include iOS app development using native and hybrid platforms, design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX). Also I'm having IBM Mobilefirst MFP 7 and 8 experience which is radically simplifies building, managing, and updating your mobile application with a pre-integrated, comprehensive set of mobile application services
+I am a mobile app developer passionate about bridging design and development. I have worked with skilled teams on high-profile mobile apps and websites, gaining experience in iOS development across native and hybrid platforms. My expertise includes front-end technologies such as React, HTML5, CSS3, JavaScript, responsive design, and UX, as well as close collaboration with design teams. I also have hands-on experience with IBM MobileFirst Platform (MFP) 7 and 8 for building, managing, and maintaining mobile applications efficiently.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/nileshdeshmukh/count.svg)
